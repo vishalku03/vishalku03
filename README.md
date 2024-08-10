@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalku03&label=Profile%20views&color=0e75b6&style=flat" alt="vishalku03" /> </p>
 
-- 🔭 I’m currently working on project **portfolios**
+- 🔭 I’m currently working on  <!** New Project**-->
 
 - ⚡ Fun fact **i am a funny**
 
