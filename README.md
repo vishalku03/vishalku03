@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalku03&label=Profile%20views&color=0e75b6&style=flat" alt="vishalku03" /> </p>
 
-- 🔭 I’m currently working on  <!** New Project**-->
+- 🔭 I’m currently working on  <New Project >
 
 - ⚡ Fun fact **i am a funny**
 
@@ -43,11 +43,6 @@
 <a href="tel:+916203364993">
   <img align="center" src="https://img.icons8.com/ios-filled/50/000000/phone.png" alt="Phone" height="30" width="30" />
 </a>
-
-<!-- Resume -->
-<!-- <a href="https://drive.google.com/" target="_blank">
-  <img align="center" src="https://img.icons8.com/ios-filled/50/000000/resume.png" alt="Resume" height="30" width="30" />
-</a> -->
 
 </p>
 
