@@ -21,6 +21,12 @@
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Link" style="margin-bottom: 5px;">
   </a>
 
+  <a href="https://drive.google.com/file/d/1E-o3HCjttsxN6iKd96BokjIWLK_OclVA/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-brown?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
+</a>
+
+
+
   <a href="mailto:vishalk.shrivastav1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Link" style="margin-bottom: 5px;">
   </a>
