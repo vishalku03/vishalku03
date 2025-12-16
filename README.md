@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishal Shrivastava</h1>
+ <h1 align="center">Hi 👋, I'm Vishal Shrivastava</h1>
 <h3 align="center">A passionate Software enjineering Students, Problem solver</h3>
 
 
@@ -14,13 +14,13 @@
 
 <p align="left">
 
-<!-- LinkedIn -->
+<!-- LinkedIn 
 <a href="https://www.linkedin.com/in/vishalk03/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
 <!-- GitHub -->
-<a href="https://github.com/vishalku03" target="_blank">
+<!-- <a href="https://github.com/vishalku03" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
 </a>
 
@@ -54,4 +54,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalku03&show_icons=true&locale=en" alt="vishalku03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalku03&" alt="vishalku03" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalku03&" alt="vishalku03" /></p>  
+
