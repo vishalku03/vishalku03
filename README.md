@@ -7,31 +7,38 @@
 
 # <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="32"> My Links
 
-<div style="display: flex; gap: 10px; align-items: center; margin-top: 5px;">
+<div style="display: flex; gap: 10px; align-items: center; margin-top: 5px; flex-wrap: wrap;">
 
   <a href="https://github.com/vishalku03">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Link" style="margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 
   <a href="https://www.linkedin.com/in/vishalk03/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Link" style="margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
   <a href="https://leetcode.com/vishal_k01">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Link" style="margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+
+  <a href="https://www.naukri.com/code360/profile/169f787a-3dfd-4a92-9524-9920e6329e00">
+    <img src="https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge&logo=codeforces&logoColor=white" alt="Coding Ninjas">
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/profile/vishalk7ssc">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
   </a>
 
   <a href="https://drive.google.com/file/d/1E-o3HCjttsxN6iKd96BokjIWLK_OclVA/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-brown?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
-</a>
-
-
+    <img src="https://img.shields.io/badge/Resume-brown?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
+  </a>
 
   <a href="mailto:vishalk.shrivastav1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Link" style="margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 
 </div>
+
 
 ---
 
