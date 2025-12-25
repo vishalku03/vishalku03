@@ -21,7 +21,7 @@ M S College, Bihar
 Score: 81%
 
 **Class X - (2018)**  
-M S Memorial Public School  
+M S Memorial Public School,  
 Score: 81%
 
 ---
