@@ -1,8 +1,6 @@
 
 # Profile
 
-# Vishal Kumar
-
 I’m a Full Stack Developer specializing in the MERN stack with strong problem-solving skills and hands-on project experience. I’ve built scalable applications including School Grade-Guard, Expense Tracker, and Cash-Flow Minimiser using React.js, Node.js, Express.js, MongoDB, and modern frontend tools like Tailwind.
 During my internship at Veridia.io, I developed production-ready modules, optimized APIs, and collaborated in an agile environment to deliver full-stack features from end-to-end.
 I also have strong DSA fundamentals, having solved 800+ problems on LeetCode and 1000+ challenges on other platforms.
