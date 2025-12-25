@@ -43,9 +43,7 @@ Score: 81%
 
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishalku03&label=Profile%20views&color=blue&style=for-the-badge&logo=eye" alt="vishalku03" />
-</p>
+
 
 # <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="32"> My Links
 
