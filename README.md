@@ -1,6 +1,48 @@
 
 # Profile Views
 
+# Vishal Kumar (Shrivastava)
+
+I’m a Full Stack Developer specializing in the MERN stack with strong problem-solving skills and hands-on project experience. I’ve built scalable applications including School Grade-Guard, Expense Tracker, and Cash-Flow Minimiser using React.js, Node.js, Express.js, MongoDB, and modern frontend tools like Tailwind.
+During my internship at Veridia.io, I developed production-ready modules, optimized APIs, and collaborated in an agile environment to deliver full-stack features from end-to-end.
+I also have strong DSA fundamentals, having solved 800+ problems on LeetCode and 1000+ challenges on other platforms.
+
+---
+
+
+## 🎓 Education
+
+**Bachelor of Engineering (2021–2025)**  
+IES College of Technology, Bhopal  
+CGPA: 7.8  
+
+**Class XII – (2018-2020)**  
+M S College, Bihar   
+Score: 81%
+
+**Class X - (2018)**  
+M S Memorial Public School  
+Score: 81%
+
+---
+
+## 💼 Experience
+
+**Veridia.io – Full Stack Developer Intern**  
+- Developed and optimized full-stack features using MERN stack.  
+- Improved API performance and integrated multiple frontend components.  
+- Wrote clean, reusable code and contributed to documentation.
+- Collaborated in Agile environment and solved real-world backend and UI challenges
+
+
+**TheWebsiteMakers – Frontend Developer Intern** 
+- Designed and implemented frontend features using React.js, JavaScript, and Tailwind CSS.
+- Worked on MongoDB and Node.js integration, enabling seamless data flow between frontend and backend.
+- Collaborated in an Agile team, contributing to UI enhancements that improved page load performance by ~20%.
+
+
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vishalku03&label=Profile%20views&color=blue&style=for-the-badge&logo=eye" alt="vishalku03" />
 </p>
