@@ -3,9 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=vishalku03&label=Profile%20views&color=blue&style=for-the-badge&logo=eye" alt="vishalku03" />
 </p>
 
-I’m a Full Stack Developer specializing in the MERN stack with strong problem-solving skills and hands-on project experience. I’ve built scalable applications including School Grade-Guard, Expense Tracker, and Cash-Flow Minimiser using React.js, Node.js, Express.js, MongoDB, and modern frontend tools like Tailwind.
-During my internship at Veridia.io, I developed production-ready modules, optimized APIs, and collaborated in an agile environment to deliver full-stack features from end-to-end.
-I also have strong DSA fundamentals, having solved 800+ problems on LeetCode and 1000+ challenges on other platforms.
+Full Stack Developer skilled in the MERN stack with proven experience in building and scaling real-world web applications. Developed projects including School Grade-Guard, Expense Tracker, and Cash-Flow Minimiser using React.js, Node.js, Express.js, MongoDB, and Tailwind CSS. Interned at Veridia.io, where I delivered production-ready modules, improved API performance, and collaborated within an agile development workflow. Strong problem-solving abilities backed by solving 800+ LeetCode problems and 1000+ DSA challenges on competitive platforms.
 
 ---
 
