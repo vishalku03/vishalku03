@@ -12,7 +12,7 @@ Full Stack Developer skilled in the MERN stack with proven experience in buildin
 
 **Bachelor of Engineering (2021–2025)**  
 IES College of Technology, Bhopal  
-CGPA: 7.8  
+CGPA: 8.0  
 
 **Class XII – (2018-2020)**  
 M S College, Bihar   
