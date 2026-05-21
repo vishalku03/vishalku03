@@ -36,7 +36,7 @@ Score: 81%
 **TheWebsiteMakers – Frontend Developer Intern** 
 - Designed and implemented frontend features using React.js, JavaScript, and Tailwind CSS.
 - Worked on MongoDB and Node.js integration, enabling seamless data flow between frontend and backend.
-- Collaborated in an Agile team, contributing to UI enhancements that improved page load performance by ~20%.
+- Collaborated in an Agile team, contributing to UI enhancements that improved page load performance by ~20% .
 
 
 
