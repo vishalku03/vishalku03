@@ -104,7 +104,7 @@ Score: 81%
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=simranmaran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=simranmaran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simranmaran&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
@@ -112,7 +112,7 @@ Score: 81%
 
 <img src="https://streak-stats.demolab.com/?user=simranmaran&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak" />
 
-<br/>
+<br/> -->
 <br/>
 
 <img src="https://leetcard.jacoblin.cool/Simranmaran?theme=dark&font=Karma&ext=heatmap" width="420"/>
