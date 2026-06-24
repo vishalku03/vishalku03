@@ -100,3 +100,21 @@ Score: 81%
   <img width="49%" src="https://github-readme-stats-tau-orcin-65.vercel.app/api/top-langs/?username=vishalku03&langs_count=12&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent" />
 </p>
 
+## GitHub and Coding Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=simranmaran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simranmaran&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=simranmaran&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak" />
+
+<br/>
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/Simranmaran?theme=dark&font=Karma&ext=heatmap" width="420"/>
+
+</div>
