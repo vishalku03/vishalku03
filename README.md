@@ -26,6 +26,16 @@ Score: 81%
 
 ## 💼 Experience
 
+**INFOTACT SOLUTIONS: – SDE Intern**  
+- Developed and maintained responsive web applications using HTML, CSS, JavaScript, React.js, and Node.js,
+  ensuring scalable and user-friendly solutions aligned with project requirements. 
+- Collaborated with cross-functional teams in designing, testing, debugging, and deploying web modules to
+  improve application performance and user experience. 
+- Participated in code reviews and followed best coding practices to write efficient, maintainable, and
+  high-quality code for smooth project execution.
+- Maintained technical documentation, resolved development issues, and learned new tools and technologies
+  to improve workflow efficiency and timely delivery
+
 **Veridia.io – Full Stack Developer Intern**  
 - Developed and optimized full-stack features using MERN stack.  
 - Improved API performance and integrated multiple frontend components.  
